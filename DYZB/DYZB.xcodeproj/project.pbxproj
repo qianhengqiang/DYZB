@@ -15,6 +15,7 @@
 		6BD1B87A1FA70D7E002A7132 /* DYZBTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BD1B8791FA70D7E002A7132 /* DYZBTests.swift */; };
 		6BD1B8851FA70D7E002A7132 /* DYZBUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BD1B8841FA70D7E002A7132 /* DYZBUITests.swift */; };
 		6BD1B89A1FA70F0A002A7132 /* new1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BD1B8991FA70F0A002A7132 /* new1.swift */; };
+		6BD1B89C1FA7124E002A7132 /* new2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BD1B89B1FA7124E002A7132 /* new2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		6BD1B8841FA70D7E002A7132 /* DYZBUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DYZBUITests.swift; sourceTree = "<group>"; };
 		6BD1B8861FA70D7E002A7132 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6BD1B8991FA70F0A002A7132 /* new1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = new1.swift; sourceTree = "<group>"; };
+		6BD1B89B1FA7124E002A7132 /* new2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = new2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -159,6 +161,7 @@
 		6BD1B8951FA70EAB002A7132 /* Live */ = {
 			isa = PBXGroup;
 			children = (
+				6BD1B89B1FA7124E002A7132 /* new2.swift */,
 			);
 			path = Live;
 			sourceTree = "<group>";
@@ -319,6 +322,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6BD1B89A1FA70F0A002A7132 /* new1.swift in Sources */,
+				6BD1B89C1FA7124E002A7132 /* new2.swift in Sources */,
 				6BD1B8671FA70D7E002A7132 /* ViewController.swift in Sources */,
 				6BD1B8651FA70D7E002A7132 /* AppDelegate.swift in Sources */,
 			);
